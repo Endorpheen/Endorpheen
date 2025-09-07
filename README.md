@@ -37,3 +37,6 @@
 
 
 The End !
+
+![snake light](https://raw.githubusercontent.com/Endorpheen/Endorpheen/output/snake.svg#gh-light-mode-only)
+![snake dark](https://raw.githubusercontent.com/Endorpheen/Endorpheen/output/snake-dark.svg#gh-dark-mode-only)
