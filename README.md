@@ -4,6 +4,10 @@
 
 - 📫 How to reach me https://discord.gg/jE3AJQMmtV https://twitter.com/EndorpheenRus
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Endorpheen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endorpheen&layout=compact&theme=radical)
+
+
                                  
 
                                                             ,        ,
