@@ -6,6 +6,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Endorpheen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endorpheen&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Endorpheen&theme=react-dark&hide_border=true&area=true&custom_title=Endorpheen%20—%20Activity%20Graph)
+
 
 
                                  
