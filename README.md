@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Endorpheen
  
-- 👀 I’m vibe coder ! 
+- 👀 True Vibe Builder ! 
 
 - 📫 How to reach me https://discord.gg/jE3AJQMmtV https://twitter.com/EndorpheenRus
 
